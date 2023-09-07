@@ -1,1 +1,2 @@
 # EDA
+#Exploratory Data Analysis (EDA) is a crucial step in data analysis. It involves summarizing and visualizing data to understand its characteristics. EDA helps uncover patterns, outliers, and relationships within the data. It often includes techniques like histograms, scatter plots, and summary statistics. EDA informs subsequent data modeling and decision-making processes, making it an essential part of any data-driven project.
